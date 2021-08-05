@@ -1,0 +1,5 @@
+Criar projeto backend
+	mix phx.new rocketpay --no-wabpack --no-hmtl
+
+Ver se tá tudo certo com o banco e setar pela primeira vez
+	mix ecto.setup
